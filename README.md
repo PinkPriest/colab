@@ -1,3 +1,1 @@
 # What the colab
-
-Ублюдки
